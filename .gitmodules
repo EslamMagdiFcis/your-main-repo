@@ -1,0 +1,3 @@
+[submodule "secure-folder"]
+	path = secure-folder
+	url = https://github.com/EslamMagdiFcis/secure-folder.git
